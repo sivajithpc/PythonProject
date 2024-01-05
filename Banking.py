@@ -104,5 +104,3 @@ class Bank:
 b=Bank()
 b.choice_login()
 b.withdraw()
-b.choice_login()
-b.choice_login()
